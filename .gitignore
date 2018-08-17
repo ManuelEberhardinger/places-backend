@@ -1,0 +1,5 @@
+first/static/
+SimilarPlacesNetwork/
+db.sqlite3
+__pycache__/
+.idea/
