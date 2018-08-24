@@ -2,4 +2,5 @@ first/static/
 SimilarPlacesNetwork/
 db.sqlite3
 __pycache__/
+SimilarPlaces/__pycache__/
 .idea/
